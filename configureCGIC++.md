@@ -1,5 +1,5 @@
-#CONFIGURING APACHE CGI 
-#========================
+# CONFIGURING APACHE CGI 
+
 Add the config files .load to apache config load directory 
 LoadModule cgi_module modules/mod_cgi.so
 
